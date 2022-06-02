@@ -13,4 +13,3 @@
 
 ![statics](https://github-readme-stats.vercel.app/api?username=KimaTsuki)
 
-![snake gif](https://github.com/KimaTsuki/KimaTsuki/blob/output/github-contribution-grid-snake.svg)
