@@ -1,6 +1,6 @@
-# Hi, i'am the Fellipe 🦆
+# 👋 Oi, eu sou o Fellipe. Mas pode me chamar de Kima.
 
-* I like to study and program. I'm a newbie in the area 🧑‍💻
-* I'm currently studying kotlin 📚
+* 🚀 Tenho 14 anos, e gosto de estudar e programar na linguagem python.
+* 💻 Atualmente estou estudando kotlin.
 
 ---
