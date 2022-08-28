@@ -1,6 +1,7 @@
 # Kima_Tsuki
 
-* 👍 Oi, eu sou o Kima.
-* 👾 Sou novato na área da programação
-* 🛩️🗼🗼 Atualmente, estou estudando nodejs
----
+- 👍 Olá, eu me chamo Kima.
+- 🐧 Sou novo na área da programação.
+- 👾 Atualmente, estou estudando a tecnologia nodejs.
+
+
