@@ -1,6 +1,6 @@
-# 👋 Oi, eu sou o Fellipe. Mas pode me chamar de Kima.
+# Hi, I'm Felipe.
 
-* 🚀 Tenho 14 anos, e gosto de estudar e programar na linguagem python.
-* 💻 Atualmente estou estudando kotlin.
+* I'm new to programming.
+* I'm studying nodejs technology.
 
 ---
