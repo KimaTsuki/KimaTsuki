@@ -1,6 +1,6 @@
-# Hi, I'm Felipe.
+# Kima_Tsuki
 
-* I'm new to programming.
-* I'm studying nodejs technology.
-
+* 👍 Oi, eu sou o Kima.
+* 👾 Sou novato na área da programação
+* 🛩️🗼🗼 Atualmente, estou estudando nodejs
 ---
